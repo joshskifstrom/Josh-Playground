@@ -1,0 +1,16 @@
+{
+  "name": "josh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "josh_playground.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.5"
+  }
+}
